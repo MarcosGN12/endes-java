@@ -7,6 +7,7 @@ public class Main {
         int opcion;
         System.out.println("CAMBIOS");
         System.out.println("CAMBIO1");
+        System.out.println("cambio");
         do {
             System.out.println("Menú de Calculadora:");
             System.out.println("1. Suma");
