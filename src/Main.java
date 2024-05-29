@@ -9,9 +9,9 @@ public class Main {
         System.out.println("CAMBIO1");
         System.out.println("cambio");
         do {
-            System.out.println("Menú de Calculadora:");
-            System.out.println("1. Suma");
-            System.out.println("2. Resta");
+            System.out.println("Mejora:");
+            System.out.println("1. una mejora aun mejor");
+            System.out.println("2. la mejor mejora");
             System.out.println("3. Multiplicación");
             System.out.println("4. Salir");
             System.out.print("Seleccione una opción: ");
